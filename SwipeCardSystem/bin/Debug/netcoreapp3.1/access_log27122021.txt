@@ -1,0 +1,5 @@
+00:10:17 27 December 2021 ID: 2, Surname: Smith, Name : Jhon, Floor: 1, Room: KS11, Type: Secure Room, State: Normal, was 'NOT ALLOWED'
+00:11:08 27 December 2021 ID: 2, Surname: Smith, Name : Jhon, Floor: 0, Room: KS01, Type: Lecture Hall, State: Normal, was 'NOT ALLOWED'
+15:01:37 27 December 2021 ID: 2, Surname: Smith, Name : Jhon, Floor: 1, Room: KS11, Type: Secure Room, State: Normal, was 'NOT ALLOWED'
+15:02:13 27 December 2021 ID: 3, Surname: Bon, Name : Lessi, Floor: 1, Room: KS12, Type: Staff Room, State: Normal, was 'NOT ALLOWED'
+15:58:19 27 December 2021 ID: 6, Surname: Taurus, Name : Jim, Floor: 1, Room: KS11, Type: Secure Room, State: Normal, was 'ALLOWED'

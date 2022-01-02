@@ -1,0 +1,43 @@
+{
+  "Building": [
+    {
+      "Id": "IT",
+      "Floors": [
+        {
+          "FloorNo": 0,
+          "Rooms": [
+            {
+              "IdRoom": "KS01",
+              "Normal": true,
+              "Emergency": false,
+              "Type": "Lecture Hall"
+            },
+            {
+              "IdRoom": "KS02",
+              "Normal": true,
+              "Emergency": false,
+              "Type": "Teaching Room"
+            }
+          ]
+        },
+        {
+          "FloorNo": 1,
+          "Rooms": [
+            {
+              "IdRoom": "KS11",
+              "Normal": true,
+              "Emergency": false,
+              "Type": "Secure Room"
+            },
+            {
+              "IdRoom": "KS12",
+              "Normal": true,
+              "Emergency": false,
+              "Type": "Staff Room"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

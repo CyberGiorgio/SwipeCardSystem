@@ -1,0 +1,52 @@
+{
+  "Card": [
+    {
+      "Id": 1,
+      "Normals": true,
+      "Emergencies": false,
+      "Name": "Ron",
+      "Surname": "Thom",
+      "Category": "Student"
+    },
+    {
+      "Id": 2,
+      "Normals": true,
+      "Emergencies": false,
+      "Name": "Jhon",
+      "Surname": "Smith",
+      "Category": "Staff Memeber"
+    },
+    {
+      "Id": 3,
+      "Normals": true,
+      "Emergencies": false,
+      "Name": "Lessi",
+      "Surname": "Bon",
+      "Category": "VisitorGuest"
+    },
+    {
+      "Id": 4,
+      "Normals": true,
+      "Emergencies": false,
+      "Name": "Ben",
+      "Surname": "Ali",
+      "Category": "Cleaner"
+    },
+    {
+      "Id": 6,
+      "Normals": true,
+      "Emergencies": true,
+      "Name": "Jim",
+      "Surname": "Taurus",
+      "Category": "Security"
+    },
+    {
+      "Id": 7,
+      "Normals": false,
+      "Emergencies": true,
+      "Name": "Betty",
+      "Surname": "Boop",
+      "Category": "Emergency"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Person": [
+    {
+      "Id": 1,
+      "Name": "Ron",
+      "Surname": "Thom",
+      "Category": "Student"
+    },
+    {
+      "Id": 2,
+      "Name": "Jhon",
+      "Surname": "Smith",
+      "Category": "Staff Memeber"
+    },
+    {
+      "Id": 3,
+      "Name": "Lessi",
+      "Surname": "Bon",
+      "Category": "VisitorGuest"
+    },
+    {
+      "Id": 4,
+      "Name": "Ben",
+      "Surname": "Ali",
+      "Category": "Cleaner"
+    },
+    {
+      "Id": 6,
+      "Name": "Jim",
+      "Surname": "Taurus",
+      "Category": "Security"
+    },
+    {
+      "Id": 7,
+      "Name": "Betty",
+      "Surname": "Boop",
+      "Category": "Emergency"
+    }
+  ],
+  "Id": "City College of Plymouth"
+}
